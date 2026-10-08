@@ -43,7 +43,7 @@ const milestones: Milestone[] = [
 
 export default function PlanPage() {
   return (
-    <main className="mx-auto my-10 max-w-2xl px-5 max-sm:my-6">
+    <main className="mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8">
       <Link
         href="/"
         className="mb-6 inline-block rounded-md border border-neutral-300 px-4 py-2 transition-colors hover:bg-neutral-100 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 dark:border-neutral-700 dark:hover:bg-neutral-800"
